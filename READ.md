@@ -1,0 +1,1 @@
+all the basic commands need to know for intial working in linux is here
